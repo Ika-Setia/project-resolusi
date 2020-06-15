@@ -1,3 +1,4 @@
 PROJECT RESOLUSI
  - Membuat Aplikasi 
+ - Web scraping
  
